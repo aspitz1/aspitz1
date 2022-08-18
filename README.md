@@ -1,5 +1,5 @@
 # Hello!
-Hello! My name is Anna Spitz and I am a developer based in Minneapolis.
+My name is Anna Spitz and I am a developer based in Minneapolis.
 <br>
 React | Javascript | TypeScript | HTML | CSS
 <br><br>
